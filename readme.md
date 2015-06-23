@@ -12,7 +12,7 @@ Technologies used: PHP, JQuery, HTML, CSS, Twitter Bootstrap.
 
 ## Screen Shots
 
-(img/add-book.png)
+![ScreenShot](https://github.com/Exan/Book-Storage-App/tree/master/img/add-book.png)
 (img/book-list.png)
 (img/chart.png)
 
