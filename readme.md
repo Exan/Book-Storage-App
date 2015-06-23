@@ -1,23 +1,18 @@
-## Laravel PHP Framework
+## Book Storage App
 
-[![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
-[![Total Downloads](https://poser.pugx.org/laravel/framework/downloads.svg)](https://packagist.org/packages/laravel/framework)
-[![Latest Stable Version](https://poser.pugx.org/laravel/framework/v/stable.svg)](https://packagist.org/packages/laravel/framework)
-[![Latest Unstable Version](https://poser.pugx.org/laravel/framework/v/unstable.svg)](https://packagist.org/packages/laravel/framework)
-[![License](https://poser.pugx.org/laravel/framework/license.svg)](https://packagist.org/packages/laravel/framework)
+This application is built on the Laravel framework.
+Technologies used: PHP, JQuery, HTML, CSS, Twitter Bootstrap.
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable, creative experience to be truly fulfilling. Laravel attempts to take the pain out of development by easing common tasks used in the majority of web projects, such as authentication, routing, sessions, queueing, and caching.
+## How To: Install on Your Local Computer Quickly
 
-Laravel is accessible, yet powerful, providing powerful tools needed for large, robust applications. A superb inversion of control container, expressive migration system, and tightly integrated unit testing support give you the tools you need to build any application with which you are tasked.
+1. Download and install AMPPS, WAMP, MAMP, or other LAMP/WAMP/MAMP stack on your computer.
+2. Download the repository and install it into your LAMP/WAMP/MAMP folder.
+3. Open your terminal/command line and copy/paste this: "php -S localhost:8000 -t public" into the project folder.
+4. Open the Internet Browser of your choice and go to http://localhost:8000/
 
-## Official Documentation
+## Screen Shots
 
-Documentation for the framework can be found on the [Laravel website](http://laravel.com/docs).
+(/img/add-book.jpg)
+(/img/book-list.jpg)
+(/img/chart.jpg)
 
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](http://laravel.com/docs/contributions).
-
-### License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT)
