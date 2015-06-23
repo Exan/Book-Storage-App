@@ -12,7 +12,7 @@ Technologies used: PHP, JQuery, HTML, CSS, Twitter Bootstrap.
 
 ## Screen Shots
 
-(/img/add-book.jpg)
-(/img/book-list.jpg)
-(/img/chart.jpg)
+(img/add-book.png)
+(img/book-list.png)
+(img/chart.png)
 
